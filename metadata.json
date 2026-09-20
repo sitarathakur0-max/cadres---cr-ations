@@ -1,0 +1,6 @@
+{
+  "name": "Cadres & Créations",
+  "description": "Atelier d'encadrement sur mesure à Bordeaux pour tableaux, photographies, œuvres d'art et pièces décoratives. 31 Rue des Arts, 33000 Bordeaux.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
