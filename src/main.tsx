@@ -8,3 +8,10 @@ createRoot(document.getElementById('root')!).render(
     <App />
   </StrictMode>,
 );
+
+// Zanderio chatbot widget
+const zanderioScript = document.createElement('script');
+zanderioScript.src = 'https://cdn.zanderio.ai/widget/loader.js';
+zanderioScript.setAttribute('data-id', 'wdg_SF2Uyevzftyfg2U26cqvspo3');
+zanderioScript.async = true;
+document.body.appendChild(zanderioScript);
